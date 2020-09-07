@@ -1,4 +1,4 @@
-url = '../ControleEquipamentos2/scripts/CrudAxios.php';
+url = '../ControleEquipamentos/scripts/CrudAxios.php';
 
 const vm = new Vue({
     el: "#app",
