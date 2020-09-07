@@ -4,8 +4,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-	<link rel="shortcut icon" href="http://www.tre-am.jus.br/favicon.ico">
-	<title>Tribunal Regional do Amazonas</title>
+	<!-- <link rel="shortcut icon" href="http://www.tre-am.jus.br/favicon.ico"> -->
+	<title>IFAM</title>
 	<link href="css/styleMenu.css" type="text/css" rel="stylesheet">
 	<link href="css/menuprincipal.css" type="text/css" rel="stylesheet">
 	<link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
