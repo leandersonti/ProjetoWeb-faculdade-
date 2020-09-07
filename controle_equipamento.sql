@@ -164,7 +164,8 @@ CREATE TABLE `usuario` (
 INSERT INTO `usuario` (`nome`, `titulo`, `senha`, `nivel`) VALUES
 ('Leandro', '0329 7173 2275', '07b875ff4badca43816759d99bb9d7fdc36ae1c4', 2),
 ('Eric', '3333 3333 3333', 'adcd7048512e64b48da55b027577886ee5a36350', 2),
-('teste', '9999 9999 9999', 'adcd7048512e64b48da55b027577886ee5a36350', 1);
+('teste', '9999 9999 9999', 'adcd7048512e64b48da55b027577886ee5a36350', 1),
+('demilson', '2222 2222 2222', 'adcd7048512e64b48da55b027577886ee5a36350',2);
 
 --
 -- Índices para tabelas despejadas
